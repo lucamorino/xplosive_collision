@@ -9,7 +9,5 @@ A time-defined, score-oriented game objective — collecting 10 points first —
 The sound engine is developed in **RNBO** (https://rnbo.cycling74.com/).
 The web architecture is developed in JavaScript and built on **soundworks** (https://soundworks.dev/), an “open-source creative coding framework for distributed applications based on web technologies”.
 
-**Warning**: Be aware that most, if not all, recent browsers will require your application to run through an HTTPS connection to grant access to motion sensors. 
-
 [WATCH THE VIDEO DEMO](https://youtu.be/DBWl7sWJueM)
 
